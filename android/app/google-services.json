@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "55453978884",
+    "project_id": "test-813cc",
+    "storage_bucket": "test-813cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55453978884:android:8b05db0f67e88c922c4051",
+        "android_client_info": {
+          "package_name": "com.example.reactnativetwiliophone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55453978884-9v8bg573sgvalll76044ql019eucrdmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpnmqEk9DP9Q1-TDn3ANvEdAYYoBfrk6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55453978884-9v8bg573sgvalll76044ql019eucrdmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55453978884:android:0fabb3e977d01a662c4051",
+        "android_client_info": {
+          "package_name": "com.ht"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55453978884-9v8bg573sgvalll76044ql019eucrdmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpnmqEk9DP9Q1-TDn3ANvEdAYYoBfrk6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55453978884-9v8bg573sgvalll76044ql019eucrdmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55453978884:android:ed2f1962f330ef352c4051",
+        "android_client_info": {
+          "package_name": "com.newapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55453978884-9v8bg573sgvalll76044ql019eucrdmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpnmqEk9DP9Q1-TDn3ANvEdAYYoBfrk6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55453978884-9v8bg573sgvalll76044ql019eucrdmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55453978884:android:30604828cb4b52332c4051",
+        "android_client_info": {
+          "package_name": "com.notifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55453978884-9v8bg573sgvalll76044ql019eucrdmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpnmqEk9DP9Q1-TDn3ANvEdAYYoBfrk6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55453978884-9v8bg573sgvalll76044ql019eucrdmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
